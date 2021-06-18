@@ -1,0 +1,5 @@
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\ProgramacionV\MiConsole\obj\MCD\Debug\net5.0\MiConsole.csproj.AssemblyReference.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\ProgramacionV\MiConsole\obj\MCD\Debug\net5.0\MiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\ProgramacionV\MiConsole\obj\MCD\Debug\net5.0\MiConsole.AssemblyInfoInputs.cache
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\ProgramacionV\MiConsole\obj\MCD\Debug\net5.0\MiConsole.AssemblyInfo.cs
+C:\Users\Margarita\Documents\FUNDAMENTOS PROGRAM\ProgramacionV\MiConsole\obj\MCD\Debug\net5.0\MiConsole.csproj.CoreCompileInputs.cache
